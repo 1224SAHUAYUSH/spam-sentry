@@ -320,7 +320,7 @@ numba==0.60.0
 numba-cuda==0.2.0
 numexpr==2.10.2
 numpy==2.0.2
-nvidia-cublas-cu12==12.5.3.2
+nvidia-cublas-cu12
 nvidia-cuda-cupti-cu12==12.4.127
 nvidia-cuda-nvcc-cu12==12.5.82
 nvidia-cuda-nvrtc-cu12==12.4.127
